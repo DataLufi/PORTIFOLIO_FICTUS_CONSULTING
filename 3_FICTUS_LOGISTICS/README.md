@@ -47,4 +47,5 @@ Governança & Data Quality → Great Expectations, DVC.
 </br>
 
 ## 📂 Estrutura de Pastas  
-<img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/bfdea9e0-8c68-44d7-8ca5-0f348b7f9ba6" />
+<img width="956" height="503" alt="image" src="https://github.com/user-attachments/assets/6553d905-551b-4f4d-a8ac-7a4bdbd15208" />
+
