@@ -1,22 +1,28 @@
-Projeto 05 – ESG / Sustentabilidade
+## Projeto 05 – ESG / Sustentabilidade
+</br>
 
-📌 Resumo Estratégico
-Monitorar consumo energético, emissões e práticas sustentáveis.
+### 📌 Resumo Estratégico  
+Monitorar consumo energético, emissões e práticas sustentáveis.  
+</br>
+ 
+### 🎯 Objetivo  
+Simular relatório ESG integrado à operação do varejo.  
+</br>
 
-🎯 Objetivo
-Simular relatório ESG integrado à operação do varejo.
+### 📊 Fontes de Dados  
+IBGE Energia.  
+Relatórios ESG (Magalu, GPA).  
+</br>
 
-📊 Fontes de Dados
-IBGE Energia.
-Relatórios ESG (Magalu, GPA).
+### 📈 KPIs Principais  
+Consumo energético.  
+CO₂ emitido.  
+% fornecedores sustentáveis.  
+</br>
 
-📈 KPIs Principais
-Consumo energético.
-CO₂ emitido.
-% fornecedores sustentáveis.
+### 📖 Storytelling
+ESG deixa de ser custo e vira fator reputacional.  
+</br>
 
-📖 Storytelling
-ESG deixa de ser custo e vira fator reputacional.
-
-🛠️ Ferramentas
+## 🛠️ Ferramentas  
 Power BI, Excel, Python (Plotly).
