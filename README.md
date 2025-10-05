@@ -23,21 +23,21 @@ O objetivo é demonstrar:
 
 ## 📦 Cases do Portfólio
 
-### [1_FICTUS_RETAIL](./Fictus_Retail/README.md)
+### [1_FICTUS_RETAIL](./1_FICTUS_RETAIL/README.md)
 Transformação de um varejista fictício em player data-driven resiliente.
 - **Foco:** vendas, finanças, RH, logística, ESG.
 - **Ferramentas:** Python, SQL, Power BI, APIs BCB/IBGE, MLflow.
 - **Impacto Esperado:** +15% eficiência logística, +10% ticket médio, redução de turnover em 5 p.p.
 </br>
 
-### [2_FICTUS_INSURANCE](./case-seguros/README.md)
+### [2_FICTUS_INSURANCE](./2_FICTUS_INSURANCE/README.md)
 Otimização de sinistros, risco de crédito e compliance regulatório em seguradora fictícia.
 - **Foco:** sinistros, fraudes, inadimplência, NPS, compliance.
 - **Ferramentas:** Python (Scikit-Learn, TensorFlow, SHAP), SQL, Power BI, Great Expectations.
 - **Impacto Esperado:** –20% tempo de liquidação, +15% fraudes detectadas, +10% NPS.
 </br>
 
-### [3_FICTUS_LOGISTICS](./case-supplychain/README.md)
+### [3_FICTUS_LOGISTICS](./3_FICTUS_LOGISTICS/README.md)
 Resiliência e eficiência logística em empresa global.
 - **Foco:** vendas, estoque, transporte, clima, macroeconomia.
 - **Ferramentas:** Python (OR-Tools, Prophet), SQL, Power BI, APIs (Clima, ANTT), GCP Vertex AI.
