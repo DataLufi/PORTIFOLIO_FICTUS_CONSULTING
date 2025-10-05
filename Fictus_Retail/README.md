@@ -46,10 +46,8 @@ Governança & Relatórios → Python, Power BI, auditorias de dados.
 </br>
 
 ## 📂 Estrutura das Pastas Fictus_Retail
-│<img width="959" height="718" alt="image" src="https://github.com/user-attachments/assets/2badf3fc-e629-4c07-a9dd-cea667add2aa" />
-<img width="965" height="723" alt="image" src="https://github.com/user-attachments/assets/c7094817-825e-453f-8427-c20bd4d419b9" />
-<img width="962" height="776" alt="image" src="https://github.com/user-attachments/assets/c394f390-e4bf-46bd-bd02-c91ad3889e98" />
-<img width="963" height="363" alt="image" src="https://github.com/user-attachments/assets/8e05ce6d-8496-4911-8291-1b1779a9fdb5" />
+<img width="953" height="475" alt="image" src="https://github.com/user-attachments/assets/aa6c9cea-fedd-4395-8e9f-27d190d8a91b" />
+
 
 
 
