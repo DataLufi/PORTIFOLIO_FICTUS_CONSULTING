@@ -49,4 +49,5 @@ Governança & Auditoria → Python, SQL, Pytest.
 </br>
 
 ## 📂 Estrutura de Pastas
-<img width="1329" height="672" alt="image" src="https://github.com/user-attachments/assets/30e76a93-6e55-4435-8e8b-482796004e6d" />
+<img width="951" height="480" alt="image" src="https://github.com/user-attachments/assets/06b9d05b-69c8-4170-a92b-8229d4289100" />
+
