@@ -40,15 +40,16 @@ Otimização de sinistros, risco de crédito e compliance regulatório em segura
 ### [3_FICTUS_LOGISTICS](./3_FICTUS_LOGISTICS/README.md)
 Resiliência e eficiência logística em empresa global.
 - **Foco:** vendas, estoque, transporte, clima, macroeconomia.
-- **Ferramentas:** Python (OR-Tools, Prophet), SQL, Power BI, APIs (Clima, ANTT), GCP Vertex AI.
-- **Impacto Esperado:** –20% custo logístico, –15% lead time, +10% NPS logístico.
+- **Ferramentas:** Python (OR-Tools, Prophet), SQL, Power BI, APIs (Clima, ANTT), GCP Vertex AI.  
+- **Impacto Esperado:** –20% custo logístico, –15% lead time, +10% NPS logístico.  
 </br>
 
 ## 📂 Estrutura do Repositório
-<img width="1310" height="537" alt="image" src="https://github.com/user-attachments/assets/9a975eab-d8bb-46a8-a46b-f149cb699221" />
+<img width="956" height="411" alt="image" src="https://github.com/user-attachments/assets/54784f92-f8f9-4823-becf-87e7bd80f09b" />  
+</br>
 </br>
 
-## 🚀 Mensagem Final
-  
+
+## 🚀 Mensagem Final  
 Este portfólio foi desenhado para mostrar habilidades técnicas avançadas + visão de negócio integrada, atendendo às demandas de especialistas em Data & Analytics, Risco de Crédito e Supply Chain.  
 Cada case é um mini-projeto consultivo, estruturado para impressionar recrutadores e conselheiros de carreira, mostrando tanto profundidade técnica quanto clareza executiva.
