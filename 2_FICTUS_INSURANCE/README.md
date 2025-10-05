@@ -1,4 +1,4 @@
-# FICTUS INSURANCE: Eficiência, Compliance e Inteligência Preditiva em Seguros
+# Fictus Insurance: Eficiência, Compliance e Inteligência Preditiva em Seguros
 </br>
 
 ## 🎯 Resumo Executivo
