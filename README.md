@@ -25,7 +25,7 @@ O objetivo é demonstrar:
 
 ## 📦 Cases do Portfólio
 
-### [Case 1 – FICTUS_RETAIL](./case-varejo/README.md)
+### [Case 1 – FICTUS_RETAIL](./Fictus_Retail/README.md)
 Transformação de um varejista fictício em player data-driven resiliente.
 - **Foco:** vendas, finanças, RH, logística, ESG.
 - **Ferramentas:** Python, SQL, Power BI, APIs BCB/IBGE, MLflow.
