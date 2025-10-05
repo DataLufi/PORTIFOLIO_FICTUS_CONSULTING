@@ -1,4 +1,4 @@
-# FICTUS LOGISTICS: Resiliência e Eficiência na Cadeia de Suprimentos  
+# Fictus Logistics: Resiliência e Eficiência na Cadeia de Suprimentos  
 </br>
 
 ## 🎯 Resumo Executivo  
