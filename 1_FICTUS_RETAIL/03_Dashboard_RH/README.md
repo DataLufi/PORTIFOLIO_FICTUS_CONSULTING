@@ -10,13 +10,13 @@ Avaliar impacto da gestão de pessoas no resultado operacional.
 </br>
 
 ### 📊 Fontes de Dados
-Kaggle HR Analytics.
+Kaggle HR Analytics.  
 IBGE PNAD (emprego e renda).  
 </br>
 
 ### 📈 KPIs Principais
-Turnover anual.
-Custo por funcionário.
+Turnover anual.  
+Custo por funcionário.  
 Absenteísmo.  
 </br>
 
@@ -26,3 +26,4 @@ Turnover alto agrava custos fixos do varejo.
 
 ### 🛠️ Ferramentas
 Power BI, Python (Seaborn, Plotly).
+
