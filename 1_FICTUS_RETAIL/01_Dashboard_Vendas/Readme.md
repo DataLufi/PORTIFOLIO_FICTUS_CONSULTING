@@ -10,9 +10,13 @@ Identificar produtos/canais mais rentáveis e gargalos de vendas.
 
 ### 📊 Fontes de Dados
 Kaggle Olist Dataset (vendas, logística). 
+</br>
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com
+</br>
 IBGE Comércio e inflação.
+</br>
 https://sidra.ibge.gov.br/tabela/8880
+</br>
 https://sidra.ibge.gov.br/Tabela/1737
 </br>
 
