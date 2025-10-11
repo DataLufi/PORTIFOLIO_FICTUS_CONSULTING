@@ -9,8 +9,11 @@ Identificar produtos/canais mais rentáveis e gargalos de vendas.
 </br>
 
 ### 📊 Fontes de Dados
-Kaggle Olist Dataset (vendas, logística).  
-IBGE Comércio.  
+Kaggle Olist Dataset (vendas, logística). 
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?utm_source=chatgpt.com
+IBGE Comércio e inflação.
+https://sidra.ibge.gov.br/tabela/8880
+https://sidra.ibge.gov.br/Tabela/1737
 </br>
 
 ### 📈 KPIs Principais  
@@ -28,3 +31,4 @@ Queda no ticket médio revela início da crise no varejo fictício.
 ### 🛠️ Ferramentas  
 Power BI (DAX), SQL, Python (Pandas, Matplotlib).  
 </br>
+
